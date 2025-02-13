@@ -1,0 +1,13 @@
+*{
+    font-family: "Roboto", serif;
+}
+.header{
+    display: flex;
+    margin: 20px;
+}
+.body{
+    margin: 20px;
+}
+.body img{
+    width: 399px;
+}

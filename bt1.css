@@ -1,0 +1,30 @@
+.header{
+    background-color: azure;
+    color: midnightblue;
+    height: 250px;
+}
+img{
+    position: relative;
+    bottom: -8px;
+}
+.red{
+    background-color: red;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    bottom: -10px;
+}
+.white{
+    height: 40px;
+    width: 180px;
+    border-radius: 8px;
+    border: none;
+    color: midnightblue;
+    font-weight: bold;
+    position: relative;
+    right: -20px;
+    bottom: -10px;
+}
