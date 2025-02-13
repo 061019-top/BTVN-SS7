@@ -1,0 +1,56 @@
+*{
+    font-family: "Roboto", serif;
+}
+.header{
+    margin: 50px;
+    border-radius: 50px;
+    width: 360px;
+    background-color: rgb(188, 95, 8);
+}
+.body{
+    background-color: rgb(212, 206, 207); 
+    height: 400px; 
+    text-align: center;
+    font-weight: 550;
+}
+.title{
+    text-align: center;
+    display: flex;
+    background-color: crimson;
+}
+.title h2{
+    position: relative;
+    left: 135px;
+    color: white;
+}
+img{
+    margin-left: 190px;
+    position: relative;
+    bottom: 25px;
+}
+.gray{
+    color: rgb(39, 36, 36);
+}
+.orange{
+    color: rgb(241, 158, 3);
+}
+.login{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+}
+.share{
+    border: 2px solid crimson;
+    border-radius: 20px;
+    width: 120px;
+    height: 35px;
+    text-align: center;
+
+}
+.mo{
+    opacity: 0.1;
+}
